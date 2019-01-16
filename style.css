@@ -1,0 +1,25 @@
+body{
+    background-image: url('b.jpg');
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-nav{
+    float: right;
+    flex: end;
+}
+.navbar{
+    background:lightslategray
+}
+#logo{
+    color: crimson;
+    font-weight: bold;
+}
+form{
+    width: 400px;
+    align: center;
+    margin: 15% 0;
+}
+form :hover{
+    opacity: 0.5;
+}
+@media screen and(max-)
+
